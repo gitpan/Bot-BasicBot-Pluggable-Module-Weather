@@ -1,12 +1,12 @@
 --- #YAML:1.0
 name: Bot-BasicBot-Pluggable-Module-Weather
-version: 0.8
+version: 0.9
 author: Simon Wistow <simon@thegestalt.org>
 abstract: |-
   various Weather and Aviation plugins for Bot::BasicBot::Pluggable
 license: perl
 requires:
-  Bot::BasicBot::Pluggable: 0.1
+  Bot::BasicBot::Pluggable: 0.5
   Geo::WeatherNWS: 0
   HTML::Entities: 0
   LWP::Simple: 0
